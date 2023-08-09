@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5MU51a9qJdk7/ccfrts+J1e+TB3XxGDdGzYFHTl7UKg=",
+  "Source": "MongoDB",
+  "BasePath": "_content/MongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
